@@ -22,3 +22,7 @@ Queries:
 5. Return the 30th through 40th (10 people) of people alphabetized by firstname
 6. Return a list of distinct firstnames
 7. Figure out the difference in ages between the oldest person and youngest person (hint: use SqlFunctions.DateDiff())
+
+Resources
+------
+[101 Linq Queries](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
