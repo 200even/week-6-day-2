@@ -25,4 +25,4 @@ Queries:
 
 Resources
 ------
-[101 Linq Queries](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+[LINQ Samples](http://linqsamples.com/)
